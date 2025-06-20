@@ -1,7 +1,7 @@
 
 
 
-
+#EXTM3U
 
 #EXTINF:-1 tvg-id="trt1" tvg-name="Kanal7" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle-thumbnail.png" group-title="Türk Kanalları",Kanal7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
