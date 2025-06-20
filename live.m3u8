@@ -3,13 +3,13 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="Kanal7" tvg-logo="https://logolar.com/trt1.png" group-title="Türk Kanalları",Kanal7
+#EXTINF:-1 tvg-id="Kanal7" tvg-name="Kanal7" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/kanal_7.png" group-title="Türk Kanalları",Kanal7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="Kanal7Avrupa" tvg-logo="https://logolar.com/trt1.png" group-title="TR_TURKIYE",Kanal7Avrupa
+#EXTINF:-1 tvg-id="Kanal7Avrupa" tvg-name="Kanal7Avrupa" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/kanal7av.png" group-title="TR_TURKIYE",Kanal7Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="KanalD" tvg-logo="https://logolar.com/trt1.png" group-title="TR_TURKIYE",KanalD
+#EXTINF:-1 tvg-id="KanalD" tvg-name="KanalD" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/kanald.png" group-title="TR_TURKIYE",KanalD
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:-1 tvg-id="EuroD" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="TR_TURKIYE",Euro D (1080p)
