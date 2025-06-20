@@ -21,7 +21,7 @@ https://fl3.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="trt1" tvg-name="National_Geographic" tvg-logo="https://logolar.com/trt1.png" group-title="Belgesel",National_Geographic
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Türk Kanalları",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
