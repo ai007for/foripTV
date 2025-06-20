@@ -19,7 +19,10 @@ http://185.234.111.229:8000/play/a01w
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-name="Show Turk" tvg-id="Show Turk" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/show_turk.png" group-title="TR_TURKIYE",Show Turk
-https://canlitvulusal.xyz/live/showturk/index.m3u8
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Show" tvg-id="Show" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/show.png" group-title="TR_TURKIYE",Show
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-id="trt1" tvg-name="TV100" tvg-logo="https://logolar.com/trt1.png" group-title="TR_TURKIYE",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
