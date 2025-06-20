@@ -1,41 +1,6 @@
 
 
 
-#EXTM3U
-#EXTM3U
-
-#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TRT_1_logo.svg/200px-TRT_1_logo.svg.png" group-title="Türk Kanalları",TRT 1
-https://iptv.example.com/trt1.m3u8
-
-#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/ATV_logo.svg/200px-ATV_logo.svg.png" group-title="Türk Kanalları",ATV
-https://iptv.example.com/atv.m3u8
-
-#EXTINF:-1 tvg-id="showtv" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Showtv.svg/200px-Showtv.svg.png" group-title="Türk Kanalları",Show TV
-https://iptv.example.com/showtv.m3u8
-
-#EXTINF:-1 tvg-id="kanald" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Türk Kanalları",Kanal D
-https://iptv.example.com/kanald.m3u8
-
-#EXTINF:-1 tvg-id="startv" tvg-name="Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Star_TV_logo_%282012%29.svg/200px-Star_TV_logo_%282012%29.svg.png" group-title="Türk Kanalları",Star TV
-https://iptv.example.com/startv.m3u8
-
-#EXTINF:-1 tvg-id="foxtv" tvg-name="FOX TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FOX_TV_logo.svg/200px-FOX_TV_logo.svg.png" group-title="Türk Kanalları",FOX TV
-https://iptv.example.com/foxtv.m3u8
-
-#EXTINF:-1 tvg-id="tv8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TV8_logo.svg/200px-TV8_logo.svg.png" group-title="Türk Kanalları",TV8
-https://iptv.example.com/tv8.m3u8
-
-#EXTINF:-1 tvg-id="trthaber" tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TRT_Haber_logo.svg/200px-TRT_Haber_logo.svg.png" group-title="Türk Kanalları",TRT Haber
-https://iptv.example.com/trthaber.m3u8
-
-#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ntv_logo.svg/200px-Ntv_logo.svg.png" group-title="Türk Kanalları",NTV
-https://iptv.example.com/ntv.m3u8
-
-#EXTINF:-1 tvg-id="cnnturk" tvg-name="CNN Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/200px-CNN_T%C3%BCrk_logo.svg.png" group-title="Türk Kanalları",CNN Türk
-https://iptv.example.com/cnnturk.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-id="trt1" tvg-name="Kanal7" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle-thumbnail.png" group-title="Türk Kanalları",Kanal7
@@ -61,6 +26,9 @@ https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Türk Kanalları",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#AZERBAYCAN_TV
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="AZERBAYCAN_TV",Az TV (1080p)
+https://str.yodacdn.net/aztv/index.m3u8
 
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
 
