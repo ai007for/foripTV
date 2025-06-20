@@ -26,10 +26,20 @@ https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Türk Kanalları",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+
 #AZERBAYCAN_TV
+#EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZERBAYCAN_TV",APA Tv
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZERBAYCAN_TV",ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN_TV",ARB 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="AZERBAYCAN_TV",ARB Gunes
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="AZERBAYCAN_TV",Az TV (1080p)
 https://str.yodacdn.net/aztv/index.m3u8
-
-https://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
-
-https://iptv-org.github.io/iptv/regions/asia.m3u
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN_TV",Azad TV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZERBAYCAN_TV",Baku TV (720p)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
