@@ -44,3 +44,5 @@ https://str.yodacdn.net/aztv/index.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZERBAYCAN_TV",Baku TV (720p)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 tvg-id="Medeniyyet TV" tvg-logo="https://acra.gov.az/en/news/333" group-title="AZERBAYCAN_TV",Medeniyyet TV
+https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
