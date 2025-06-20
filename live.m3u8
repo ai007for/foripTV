@@ -3,22 +3,22 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="Kanal7" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle-thumbnail.png" group-title="Türk Kanalları",Kanal7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/kanal_7.png" group-title="TR_TURKIYE",TR: KANAL 7 HD
+http://neroiptv.xyz:8080/pSDsYYpGtr/QNsZt6o4fJ/224
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="Kanal7Avrupa" tvg-logo="https://logolar.com/trt1.png" group-title="Türk Kanalları",Kanal7Avrupa
+#EXTINF:-1 tvg-id="trt1" tvg-name="Kanal7Avrupa" tvg-logo="https://logolar.com/trt1.png" group-title="TR_TURKIYE",Kanal7Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="KanalD" tvg-logo="https://logolar.com/trt1.png" group-title="Türk Kanalları",KanalD
+#EXTINF:-1 tvg-id="trt1" tvg-name="KanalD" tvg-logo="https://logolar.com/trt1.png" group-title="TR_TURKIYE",KanalD
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-id="EuroD" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Türk Kanalları",Euro D (1080p)
+#EXTINF:-1 tvg-id="EuroD" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="TR_TURKIYE",Euro D (1080p)
 http://185.234.111.229:8000/play/a01w
 
-#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Türk Kanalları",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="TR_TURKIYE",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="TV100" tvg-logo="https://logolar.com/trt1.png" group-title="Türk Kanalları",TV100
+#EXTINF:-1 tvg-id="trt1" tvg-name="TV100" tvg-logo="https://logolar.com/trt1.png" group-title="TR_TURKIYE",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 
 #EXTINF:-1 tvg-id="trt1" tvg-name="Nat_Geo_Wild" tvg-logo="https://logolar.com/trt1.png" group-title="Belgesel",Nat_Geo_Wild
