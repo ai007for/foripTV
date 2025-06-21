@@ -157,12 +157,25 @@ https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="History Hunters" tvg-name="History Hunters" tvg-logo="https://logolar.com/trt1.png" group-title="USA",History Hunters
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
 
+#EXTINF:-1 tvg-id=" Wild Nature" tvg-name=" Wild Nature" tvg-logo="https://logolar.com/trt1.png" group-title="USA", Wild Nature
+https://wildearth-plex.amagi.tv/master.m3u8
 
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name=" Red Bull TV" tvg-logo="https://logolar.com/trt1.png" group-title="USA",  Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://logolar.com/trt1.png" group-title="USA",ANIMAL PLANET
+http://38.96.178.201/live/AnimalPlanet/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://logolar.com/trt1.png" group-title="USA",DISCOVERY
+http://38.96.178.201/live/Discovery/index.m3u8
 
 
 ##AZERBAYCAN
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="AZERBAYCAN_TV",Az TV (1080p)
 https://str.yodacdn.net/aztv/index.m3u8
+
+#EXTINF:-1 tvg-id="İctimai Tv.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN_TV", İctimai Tv
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ictimai-tv
 
 #EXTINF:-1 tvg-id="Medeniyyet TV" tvg-logo="https://acra.gov.az/en/news/333" group-title="AZERBAYCAN_TV",Medeniyyet TV
 https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
