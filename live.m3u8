@@ -3,7 +3,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Kanal7" tvg-name="Kanal7" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/kanal_7.png" group-title="Türk Kanalları",Kanal7
+#EXTINF:-1 tvg-id="Kanal7" tvg-name="Kanal7" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/kanal_7.png" group-title="TR_TURKIYE",Kanal7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7Avrupa" tvg-name="Kanal7Avrupa" tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/kanal7av.png" group-title="TR_TURKIYE",Kanal7Avrupa
