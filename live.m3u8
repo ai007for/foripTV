@@ -128,13 +128,13 @@ http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
 ##BELGESEL
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="Nat_Geo_Wild" tvg-logo="https://logolar.com/trt1.png" group-title="Belgesel",Nat_Geo_Wild
+#EXTINF:-1 tvg-id="trt1" tvg-name="Nat_Geo_Wild" tvg-logo="https://logolar.com/trt1.png" group-title="BELGESEL",Nat_Geo_Wild
 https://fl3.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="National_Geographic" tvg-logo="https://logolar.com/trt1.png" group-title="Belgesel",National_Geographic
+#EXTINF:-1 tvg-id="trt1" tvg-name="National_Geographic" tvg-logo="https://logolar.com/trt1.png" group-title="BELGESEL",National_Geographic
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
@@ -143,10 +143,10 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 tvg-id="CINE1" tvg-name="CINE1" tvg-logo="https://logolar.com/trt1.png" group-title="Belgesel",CINE1
+#EXTINF:-1 tvg-id="CINE1" tvg-name="CINE1" tvg-logo="https://logolar.com/trt1.png" group-title="BELGESEL",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LIFE TV" tvg-name="LIFE TV" tvg-logo="https://logolar.com/trt1.png" group-title="Belgesel",LIFE TV
+#EXTINF:-1 tvg-id="LIFE TV" tvg-name="LIFE TV" tvg-logo="https://logolar.com/trt1.png" group-title="BELGESEL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
 
