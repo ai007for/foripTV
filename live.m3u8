@@ -36,6 +36,22 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864
 #EXTINF:-1 tvg-name="foxturk" tvg-id="foxturk" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="TR_TURKIYE",foxturk
 http://66.160.192.241/foxturk/index.m3u8
 
+#EXTINF:-1 tvg-name="360" tvg-id="360" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="TR_TURKIYE",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV 4" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="TR_TURKIYE",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-name="TIVI 6" tvg-id="TIVI 6" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="TR_TURKIYE",TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BIR TV" tvg-id="BIR TV" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="TR_TURKIYE",BIR TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CINE5 TV" tvg-id="CINE5 TV" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="TR_TURKIYE",CINE5 TV
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
+
 ##BELGESEL
 
 #EXTINF:-1 tvg-id="trt1" tvg-name="Nat_Geo_Wild" tvg-logo="https://logolar.com/trt1.png" group-title="Belgesel",Nat_Geo_Wild
@@ -52,6 +68,9 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:-1 tvg-id="CINE1" tvg-name="CINE1" tvg-logo="https://logolar.com/trt1.png" group-title="Belgesel",CINE1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
 
 ##AZERBAYCAN
