@@ -103,6 +103,28 @@ https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-name="TURKHABER" tvg-id="TURKHABER" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="HABER_TURKIYE",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
+##MUZIK_TURKIYE
+
+#EXTINF:-1 tvg-name="NR1" tvg-id="NR1" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="MUZIK_TURKIYE",NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NR1 ASK" tvg-id="NR1 ASK" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="MUZIK_TURKIYE",NR1 ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NR1 DAMAR" tvg-id="NR1 DAMAR" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="MUZIK_TURKIYE",NR1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KRAL POP" tvg-id="KRAL POP" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="MUZIK_TURKIYE",KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop
+
+#EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-id="NR1 FASHION ONE" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="MUZIK_TURKIYE",NR1 FASHION ONE
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DREAM TURK" tvg-id="DREAM TURK" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="MUZIK_TURKIYE",DREAM TURK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-id="POWER TURK TAPTAZE" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="MUZIK_TURKIYE",POWER TURK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
 ##BELGESEL
 
